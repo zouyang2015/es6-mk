@@ -1,0 +1,516 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install',
+1 verbose cli   'gulp',
+1 verbose cli   'gulp-if',
+1 verbose cli   'gulp-concat',
+1 verbose cli   'webpack',
+1 verbose cli   'webpack-stream',
+1 verbose cli   'vinl-named',
+1 verbose cli   'gulp-livereload',
+1 verbose cli   'gulp-plumber',
+1 verbose cli   'gulp-rename',
+1 verbose cli   'gulp-rename',
+1 verbose cli   'gulp-uglify',
+1 verbose cli   'gulp-util',
+1 verbose cli   'yargs',
+1 verbose cli   '--save-dev' ]
+2 info using npm@4.0.5
+3 info using node@v7.4.0
+4 silly loadCurrentTree Starting
+5 silly install loadCurrentTree
+6 silly install readLocalPackageData
+7 silly fetchPackageMetaData gulp
+8 silly fetchPackageMetaData gulp-if
+9 silly fetchPackageMetaData gulp-concat
+10 silly fetchPackageMetaData webpack
+11 silly fetchPackageMetaData webpack-stream
+12 silly fetchPackageMetaData vinl-named
+13 silly fetchPackageMetaData gulp-livereload
+14 silly fetchPackageMetaData gulp-plumber
+15 silly fetchPackageMetaData gulp-rename
+16 silly fetchPackageMetaData gulp-rename
+17 silly fetchPackageMetaData gulp-uglify
+18 silly fetchPackageMetaData gulp-util
+19 silly fetchPackageMetaData yargs
+20 silly fetchNamedPackageData gulp
+21 silly mapToRegistry name gulp
+22 silly mapToRegistry using default registry
+23 silly mapToRegistry registry http://maven.baokeyunguanjia.com/repository/npm-all/
+24 silly mapToRegistry data Result {
+24 silly mapToRegistry   raw: 'gulp',
+24 silly mapToRegistry   scope: null,
+24 silly mapToRegistry   escapedName: 'gulp',
+24 silly mapToRegistry   name: 'gulp',
+24 silly mapToRegistry   rawSpec: '',
+24 silly mapToRegistry   spec: 'latest',
+24 silly mapToRegistry   type: 'tag' }
+25 silly mapToRegistry uri http://maven.baokeyunguanjia.com/repository/npm-all/gulp
+26 silly fetchNamedPackageData gulp-if
+27 silly mapToRegistry name gulp-if
+28 silly mapToRegistry using default registry
+29 silly mapToRegistry registry http://maven.baokeyunguanjia.com/repository/npm-all/
+30 silly mapToRegistry data Result {
+30 silly mapToRegistry   raw: 'gulp-if',
+30 silly mapToRegistry   scope: null,
+30 silly mapToRegistry   escapedName: 'gulp-if',
+30 silly mapToRegistry   name: 'gulp-if',
+30 silly mapToRegistry   rawSpec: '',
+30 silly mapToRegistry   spec: 'latest',
+30 silly mapToRegistry   type: 'tag' }
+31 silly mapToRegistry uri http://maven.baokeyunguanjia.com/repository/npm-all/gulp-if
+32 silly fetchNamedPackageData gulp-concat
+33 silly mapToRegistry name gulp-concat
+34 silly mapToRegistry using default registry
+35 silly mapToRegistry registry http://maven.baokeyunguanjia.com/repository/npm-all/
+36 silly mapToRegistry data Result {
+36 silly mapToRegistry   raw: 'gulp-concat',
+36 silly mapToRegistry   scope: null,
+36 silly mapToRegistry   escapedName: 'gulp-concat',
+36 silly mapToRegistry   name: 'gulp-concat',
+36 silly mapToRegistry   rawSpec: '',
+36 silly mapToRegistry   spec: 'latest',
+36 silly mapToRegistry   type: 'tag' }
+37 silly mapToRegistry uri http://maven.baokeyunguanjia.com/repository/npm-all/gulp-concat
+38 silly fetchNamedPackageData webpack
+39 silly mapToRegistry name webpack
+40 silly mapToRegistry using default registry
+41 silly mapToRegistry registry http://maven.baokeyunguanjia.com/repository/npm-all/
+42 silly mapToRegistry data Result {
+42 silly mapToRegistry   raw: 'webpack',
+42 silly mapToRegistry   scope: null,
+42 silly mapToRegistry   escapedName: 'webpack',
+42 silly mapToRegistry   name: 'webpack',
+42 silly mapToRegistry   rawSpec: '',
+42 silly mapToRegistry   spec: 'latest',
+42 silly mapToRegistry   type: 'tag' }
+43 silly mapToRegistry uri http://maven.baokeyunguanjia.com/repository/npm-all/webpack
+44 silly fetchNamedPackageData webpack-stream
+45 silly mapToRegistry name webpack-stream
+46 silly mapToRegistry using default registry
+47 silly mapToRegistry registry http://maven.baokeyunguanjia.com/repository/npm-all/
+48 silly mapToRegistry data Result {
+48 silly mapToRegistry   raw: 'webpack-stream',
+48 silly mapToRegistry   scope: null,
+48 silly mapToRegistry   escapedName: 'webpack-stream',
+48 silly mapToRegistry   name: 'webpack-stream',
+48 silly mapToRegistry   rawSpec: '',
+48 silly mapToRegistry   spec: 'latest',
+48 silly mapToRegistry   type: 'tag' }
+49 silly mapToRegistry uri http://maven.baokeyunguanjia.com/repository/npm-all/webpack-stream
+50 silly fetchNamedPackageData vinl-named
+51 silly mapToRegistry name vinl-named
+52 silly mapToRegistry using default registry
+53 silly mapToRegistry registry http://maven.baokeyunguanjia.com/repository/npm-all/
+54 silly mapToRegistry data Result {
+54 silly mapToRegistry   raw: 'vinl-named',
+54 silly mapToRegistry   scope: null,
+54 silly mapToRegistry   escapedName: 'vinl-named',
+54 silly mapToRegistry   name: 'vinl-named',
+54 silly mapToRegistry   rawSpec: '',
+54 silly mapToRegistry   spec: 'latest',
+54 silly mapToRegistry   type: 'tag' }
+55 silly mapToRegistry uri http://maven.baokeyunguanjia.com/repository/npm-all/vinl-named
+56 silly fetchNamedPackageData gulp-livereload
+57 silly mapToRegistry name gulp-livereload
+58 silly mapToRegistry using default registry
+59 silly mapToRegistry registry http://maven.baokeyunguanjia.com/repository/npm-all/
+60 silly mapToRegistry data Result {
+60 silly mapToRegistry   raw: 'gulp-livereload',
+60 silly mapToRegistry   scope: null,
+60 silly mapToRegistry   escapedName: 'gulp-livereload',
+60 silly mapToRegistry   name: 'gulp-livereload',
+60 silly mapToRegistry   rawSpec: '',
+60 silly mapToRegistry   spec: 'latest',
+60 silly mapToRegistry   type: 'tag' }
+61 silly mapToRegistry uri http://maven.baokeyunguanjia.com/repository/npm-all/gulp-livereload
+62 silly fetchNamedPackageData gulp-plumber
+63 silly mapToRegistry name gulp-plumber
+64 silly mapToRegistry using default registry
+65 silly mapToRegistry registry http://maven.baokeyunguanjia.com/repository/npm-all/
+66 silly mapToRegistry data Result {
+66 silly mapToRegistry   raw: 'gulp-plumber',
+66 silly mapToRegistry   scope: null,
+66 silly mapToRegistry   escapedName: 'gulp-plumber',
+66 silly mapToRegistry   name: 'gulp-plumber',
+66 silly mapToRegistry   rawSpec: '',
+66 silly mapToRegistry   spec: 'latest',
+66 silly mapToRegistry   type: 'tag' }
+67 silly mapToRegistry uri http://maven.baokeyunguanjia.com/repository/npm-all/gulp-plumber
+68 silly fetchNamedPackageData gulp-rename
+69 silly mapToRegistry name gulp-rename
+70 silly mapToRegistry using default registry
+71 silly mapToRegistry registry http://maven.baokeyunguanjia.com/repository/npm-all/
+72 silly mapToRegistry data Result {
+72 silly mapToRegistry   raw: 'gulp-rename',
+72 silly mapToRegistry   scope: null,
+72 silly mapToRegistry   escapedName: 'gulp-rename',
+72 silly mapToRegistry   name: 'gulp-rename',
+72 silly mapToRegistry   rawSpec: '',
+72 silly mapToRegistry   spec: 'latest',
+72 silly mapToRegistry   type: 'tag' }
+73 silly mapToRegistry uri http://maven.baokeyunguanjia.com/repository/npm-all/gulp-rename
+74 silly fetchNamedPackageData gulp-rename
+75 silly mapToRegistry name gulp-rename
+76 silly mapToRegistry using default registry
+77 silly mapToRegistry registry http://maven.baokeyunguanjia.com/repository/npm-all/
+78 silly mapToRegistry data Result {
+78 silly mapToRegistry   raw: 'gulp-rename',
+78 silly mapToRegistry   scope: null,
+78 silly mapToRegistry   escapedName: 'gulp-rename',
+78 silly mapToRegistry   name: 'gulp-rename',
+78 silly mapToRegistry   rawSpec: '',
+78 silly mapToRegistry   spec: 'latest',
+78 silly mapToRegistry   type: 'tag' }
+79 silly mapToRegistry uri http://maven.baokeyunguanjia.com/repository/npm-all/gulp-rename
+80 silly fetchNamedPackageData gulp-uglify
+81 silly mapToRegistry name gulp-uglify
+82 silly mapToRegistry using default registry
+83 silly mapToRegistry registry http://maven.baokeyunguanjia.com/repository/npm-all/
+84 silly mapToRegistry data Result {
+84 silly mapToRegistry   raw: 'gulp-uglify',
+84 silly mapToRegistry   scope: null,
+84 silly mapToRegistry   escapedName: 'gulp-uglify',
+84 silly mapToRegistry   name: 'gulp-uglify',
+84 silly mapToRegistry   rawSpec: '',
+84 silly mapToRegistry   spec: 'latest',
+84 silly mapToRegistry   type: 'tag' }
+85 silly mapToRegistry uri http://maven.baokeyunguanjia.com/repository/npm-all/gulp-uglify
+86 silly fetchNamedPackageData gulp-util
+87 silly mapToRegistry name gulp-util
+88 silly mapToRegistry using default registry
+89 silly mapToRegistry registry http://maven.baokeyunguanjia.com/repository/npm-all/
+90 silly mapToRegistry data Result {
+90 silly mapToRegistry   raw: 'gulp-util',
+90 silly mapToRegistry   scope: null,
+90 silly mapToRegistry   escapedName: 'gulp-util',
+90 silly mapToRegistry   name: 'gulp-util',
+90 silly mapToRegistry   rawSpec: '',
+90 silly mapToRegistry   spec: 'latest',
+90 silly mapToRegistry   type: 'tag' }
+91 silly mapToRegistry uri http://maven.baokeyunguanjia.com/repository/npm-all/gulp-util
+92 silly fetchNamedPackageData yargs
+93 silly mapToRegistry name yargs
+94 silly mapToRegistry using default registry
+95 silly mapToRegistry registry http://maven.baokeyunguanjia.com/repository/npm-all/
+96 silly mapToRegistry data Result {
+96 silly mapToRegistry   raw: 'yargs',
+96 silly mapToRegistry   scope: null,
+96 silly mapToRegistry   escapedName: 'yargs',
+96 silly mapToRegistry   name: 'yargs',
+96 silly mapToRegistry   rawSpec: '',
+96 silly mapToRegistry   spec: 'latest',
+96 silly mapToRegistry   type: 'tag' }
+97 silly mapToRegistry uri http://maven.baokeyunguanjia.com/repository/npm-all/yargs
+98 verbose request uri http://maven.baokeyunguanjia.com/repository/npm-all/vinl-named
+99 verbose request no auth needed
+100 info attempt registry request try #1 at 18:33:14
+101 verbose request id 4b3871421d0cfb25
+102 http request GET http://maven.baokeyunguanjia.com/repository/npm-all/vinl-named
+103 verbose request uri http://maven.baokeyunguanjia.com/repository/npm-all/gulp-if
+104 verbose request no auth needed
+105 info attempt registry request try #1 at 18:33:14
+106 http request GET http://maven.baokeyunguanjia.com/repository/npm-all/gulp-if
+107 verbose request uri http://maven.baokeyunguanjia.com/repository/npm-all/webpack-stream
+108 verbose request no auth needed
+109 info attempt registry request try #1 at 18:33:14
+110 http request GET http://maven.baokeyunguanjia.com/repository/npm-all/webpack-stream
+111 verbose request uri http://maven.baokeyunguanjia.com/repository/npm-all/gulp-concat
+112 verbose request no auth needed
+113 info attempt registry request try #1 at 18:33:14
+114 http request GET http://maven.baokeyunguanjia.com/repository/npm-all/gulp-concat
+115 verbose request uri http://maven.baokeyunguanjia.com/repository/npm-all/gulp
+116 verbose request no auth needed
+117 info attempt registry request try #1 at 18:33:14
+118 http request GET http://maven.baokeyunguanjia.com/repository/npm-all/gulp
+119 verbose request uri http://maven.baokeyunguanjia.com/repository/npm-all/gulp-rename
+120 verbose request no auth needed
+121 info attempt registry request try #1 at 18:33:14
+122 http request GET http://maven.baokeyunguanjia.com/repository/npm-all/gulp-rename
+123 verbose request uri http://maven.baokeyunguanjia.com/repository/npm-all/gulp-livereload
+124 verbose request no auth needed
+125 info attempt registry request try #1 at 18:33:14
+126 http request GET http://maven.baokeyunguanjia.com/repository/npm-all/gulp-livereload
+127 verbose request uri http://maven.baokeyunguanjia.com/repository/npm-all/gulp-plumber
+128 verbose request no auth needed
+129 info attempt registry request try #1 at 18:33:14
+130 http request GET http://maven.baokeyunguanjia.com/repository/npm-all/gulp-plumber
+131 verbose request uri http://maven.baokeyunguanjia.com/repository/npm-all/gulp-uglify
+132 verbose request no auth needed
+133 info attempt registry request try #1 at 18:33:14
+134 http request GET http://maven.baokeyunguanjia.com/repository/npm-all/gulp-uglify
+135 verbose request uri http://maven.baokeyunguanjia.com/repository/npm-all/gulp-rename
+136 verbose request no auth needed
+137 info attempt registry request try #1 at 18:33:14
+138 http request GET http://maven.baokeyunguanjia.com/repository/npm-all/gulp-rename
+139 verbose request uri http://maven.baokeyunguanjia.com/repository/npm-all/gulp-util
+140 verbose request no auth needed
+141 info attempt registry request try #1 at 18:33:14
+142 http request GET http://maven.baokeyunguanjia.com/repository/npm-all/gulp-util
+143 verbose request uri http://maven.baokeyunguanjia.com/repository/npm-all/yargs
+144 verbose request no auth needed
+145 info attempt registry request try #1 at 18:33:14
+146 http request GET http://maven.baokeyunguanjia.com/repository/npm-all/yargs
+147 verbose request uri http://maven.baokeyunguanjia.com/repository/npm-all/webpack
+148 verbose request no auth needed
+149 info attempt registry request try #1 at 18:33:14
+150 http request GET http://maven.baokeyunguanjia.com/repository/npm-all/webpack
+151 http 404 http://maven.baokeyunguanjia.com/repository/npm-all/vinl-named
+152 verbose headers { date: 'Fri, 26 May 2017 10:33:39 GMT',
+152 verbose headers   'content-type': 'application/json',
+152 verbose headers   'content-length': '37',
+152 verbose headers   connection: 'keep-alive',
+152 verbose headers   'x-frame-options': 'SAMEORIGIN',
+152 verbose headers   'x-content-type-options': 'nosniff' }
+153 silly get cb [ 404,
+153 silly get   { date: 'Fri, 26 May 2017 10:33:39 GMT',
+153 silly get     'content-type': 'application/json',
+153 silly get     'content-length': '37',
+153 silly get     connection: 'keep-alive',
+153 silly get     'x-frame-options': 'SAMEORIGIN',
+153 silly get     'x-content-type-options': 'nosniff' } ]
+154 silly fetchPackageMetaData Error: Not found : repository
+154 silly fetchPackageMetaData     at makeError (C:\Program Files\nodejs\node_modules\npm\node_modules\npm-registry-client\lib\request.js:302:12)
+154 silly fetchPackageMetaData     at CachingRegistryClient.<anonymous> (C:\Program Files\nodejs\node_modules\npm\node_modules\npm-registry-client\lib\request.js:290:14)
+154 silly fetchPackageMetaData     at Request._callback (C:\Program Files\nodejs\node_modules\npm\node_modules\npm-registry-client\lib\request.js:210:14)
+154 silly fetchPackageMetaData     at Request.self.callback (C:\Program Files\nodejs\node_modules\npm\node_modules\request\request.js:186:22)
+154 silly fetchPackageMetaData     at emitTwo (events.js:106:13)
+154 silly fetchPackageMetaData     at Request.emit (events.js:191:7)
+154 silly fetchPackageMetaData     at Request.<anonymous> (C:\Program Files\nodejs\node_modules\npm\node_modules\request\request.js:1081:10)
+154 silly fetchPackageMetaData     at emitOne (events.js:96:13)
+154 silly fetchPackageMetaData     at Request.emit (events.js:188:7)
+154 silly fetchPackageMetaData     at IncomingMessage.<anonymous> (C:\Program Files\nodejs\node_modules\npm\node_modules\request\request.js:1001:12)
+154 silly fetchPackageMetaData  error for vinl-named { Error: Not found : repository
+154 silly fetchPackageMetaData     at makeError (C:\Program Files\nodejs\node_modules\npm\node_modules\npm-registry-client\lib\request.js:302:12)
+154 silly fetchPackageMetaData     at CachingRegistryClient.<anonymous> (C:\Program Files\nodejs\node_modules\npm\node_modules\npm-registry-client\lib\request.js:290:14)
+154 silly fetchPackageMetaData     at Request._callback (C:\Program Files\nodejs\node_modules\npm\node_modules\npm-registry-client\lib\request.js:210:14)
+154 silly fetchPackageMetaData     at Request.self.callback (C:\Program Files\nodejs\node_modules\npm\node_modules\request\request.js:186:22)
+154 silly fetchPackageMetaData     at emitTwo (events.js:106:13)
+154 silly fetchPackageMetaData     at Request.emit (events.js:191:7)
+154 silly fetchPackageMetaData     at Request.<anonymous> (C:\Program Files\nodejs\node_modules\npm\node_modules\request\request.js:1081:10)
+154 silly fetchPackageMetaData     at emitOne (events.js:96:13)
+154 silly fetchPackageMetaData     at Request.emit (events.js:188:7)
+154 silly fetchPackageMetaData     at IncomingMessage.<anonymous> (C:\Program Files\nodejs\node_modules\npm\node_modules\request\request.js:1001:12) pkgid: 'repository', statusCode: 404, code: 'E404' }
+155 http 200 http://maven.baokeyunguanjia.com/repository/npm-all/gulp-livereload
+156 verbose headers { date: 'Fri, 26 May 2017 10:33:39 GMT',
+156 verbose headers   'content-type': 'application/json',
+156 verbose headers   'content-length': '41184',
+156 verbose headers   connection: 'keep-alive',
+156 verbose headers   'x-frame-options': 'SAMEORIGIN',
+156 verbose headers   'x-content-type-options': 'nosniff' }
+157 silly get cb [ 200,
+157 silly get   { date: 'Fri, 26 May 2017 10:33:39 GMT',
+157 silly get     'content-type': 'application/json',
+157 silly get     'content-length': '41184',
+157 silly get     connection: 'keep-alive',
+157 silly get     'x-frame-options': 'SAMEORIGIN',
+157 silly get     'x-content-type-options': 'nosniff' } ]
+158 verbose get saving gulp-livereload to C:\Users\YCY\AppData\Roaming\npm-cache\maven.baokeyunguanjia.com\repository\npm-all\gulp-livereload\.cache.json
+159 verbose correctMkdir C:\Users\YCY\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+160 http 200 http://maven.baokeyunguanjia.com/repository/npm-all/gulp-if
+161 verbose headers { date: 'Fri, 26 May 2017 10:33:39 GMT',
+161 verbose headers   'content-type': 'application/json',
+161 verbose headers   'content-length': '29559',
+161 verbose headers   connection: 'keep-alive',
+161 verbose headers   'x-frame-options': 'SAMEORIGIN',
+161 verbose headers   'x-content-type-options': 'nosniff' }
+162 silly get cb [ 200,
+162 silly get   { date: 'Fri, 26 May 2017 10:33:39 GMT',
+162 silly get     'content-type': 'application/json',
+162 silly get     'content-length': '29559',
+162 silly get     connection: 'keep-alive',
+162 silly get     'x-frame-options': 'SAMEORIGIN',
+162 silly get     'x-content-type-options': 'nosniff' } ]
+163 verbose get saving gulp-if to C:\Users\YCY\AppData\Roaming\npm-cache\maven.baokeyunguanjia.com\repository\npm-all\gulp-if\.cache.json
+164 verbose correctMkdir C:\Users\YCY\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+165 http 200 http://maven.baokeyunguanjia.com/repository/npm-all/gulp-plumber
+166 verbose headers { date: 'Fri, 26 May 2017 10:33:39 GMT',
+166 verbose headers   'content-type': 'application/json',
+166 verbose headers   'content-length': '48850',
+166 verbose headers   connection: 'keep-alive',
+166 verbose headers   'x-frame-options': 'SAMEORIGIN',
+166 verbose headers   'x-content-type-options': 'nosniff' }
+167 silly get cb [ 200,
+167 silly get   { date: 'Fri, 26 May 2017 10:33:39 GMT',
+167 silly get     'content-type': 'application/json',
+167 silly get     'content-length': '48850',
+167 silly get     connection: 'keep-alive',
+167 silly get     'x-frame-options': 'SAMEORIGIN',
+167 silly get     'x-content-type-options': 'nosniff' } ]
+168 verbose get saving gulp-plumber to C:\Users\YCY\AppData\Roaming\npm-cache\maven.baokeyunguanjia.com\repository\npm-all\gulp-plumber\.cache.json
+169 verbose correctMkdir C:\Users\YCY\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+170 http 200 http://maven.baokeyunguanjia.com/repository/npm-all/gulp-uglify
+171 verbose headers { date: 'Fri, 26 May 2017 10:33:39 GMT',
+171 verbose headers   'content-type': 'application/json',
+171 verbose headers   'content-length': '62269',
+171 verbose headers   connection: 'keep-alive',
+171 verbose headers   'x-frame-options': 'SAMEORIGIN',
+171 verbose headers   'x-content-type-options': 'nosniff' }
+172 silly get cb [ 200,
+172 silly get   { date: 'Fri, 26 May 2017 10:33:39 GMT',
+172 silly get     'content-type': 'application/json',
+172 silly get     'content-length': '62269',
+172 silly get     connection: 'keep-alive',
+172 silly get     'x-frame-options': 'SAMEORIGIN',
+172 silly get     'x-content-type-options': 'nosniff' } ]
+173 verbose get saving gulp-uglify to C:\Users\YCY\AppData\Roaming\npm-cache\maven.baokeyunguanjia.com\repository\npm-all\gulp-uglify\.cache.json
+174 verbose correctMkdir C:\Users\YCY\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+175 http 200 http://maven.baokeyunguanjia.com/repository/npm-all/gulp-util
+176 verbose headers { date: 'Fri, 26 May 2017 10:33:39 GMT',
+176 verbose headers   'content-type': 'application/json',
+176 verbose headers   'content-length': '74901',
+176 verbose headers   connection: 'keep-alive',
+176 verbose headers   'x-frame-options': 'SAMEORIGIN',
+176 verbose headers   'x-content-type-options': 'nosniff' }
+177 silly get cb [ 200,
+177 silly get   { date: 'Fri, 26 May 2017 10:33:39 GMT',
+177 silly get     'content-type': 'application/json',
+177 silly get     'content-length': '74901',
+177 silly get     connection: 'keep-alive',
+177 silly get     'x-frame-options': 'SAMEORIGIN',
+177 silly get     'x-content-type-options': 'nosniff' } ]
+178 verbose get saving gulp-util to C:\Users\YCY\AppData\Roaming\npm-cache\maven.baokeyunguanjia.com\repository\npm-all\gulp-util\.cache.json
+179 verbose correctMkdir C:\Users\YCY\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+180 http 200 http://maven.baokeyunguanjia.com/repository/npm-all/gulp
+181 verbose headers { date: 'Fri, 26 May 2017 10:33:39 GMT',
+181 verbose headers   'content-type': 'application/json',
+181 verbose headers   'content-length': '137190',
+181 verbose headers   connection: 'keep-alive',
+181 verbose headers   'x-frame-options': 'SAMEORIGIN',
+181 verbose headers   'x-content-type-options': 'nosniff' }
+182 silly get cb [ 200,
+182 silly get   { date: 'Fri, 26 May 2017 10:33:39 GMT',
+182 silly get     'content-type': 'application/json',
+182 silly get     'content-length': '137190',
+182 silly get     connection: 'keep-alive',
+182 silly get     'x-frame-options': 'SAMEORIGIN',
+182 silly get     'x-content-type-options': 'nosniff' } ]
+183 verbose get saving gulp to C:\Users\YCY\AppData\Roaming\npm-cache\maven.baokeyunguanjia.com\repository\npm-all\gulp\.cache.json
+184 verbose correctMkdir C:\Users\YCY\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+185 http 200 http://maven.baokeyunguanjia.com/repository/npm-all/gulp-concat
+186 verbose headers { date: 'Fri, 26 May 2017 10:33:39 GMT',
+186 verbose headers   'content-type': 'application/json',
+186 verbose headers   'content-length': '47432',
+186 verbose headers   connection: 'keep-alive',
+186 verbose headers   'x-frame-options': 'SAMEORIGIN',
+186 verbose headers   'x-content-type-options': 'nosniff' }
+187 silly get cb [ 200,
+187 silly get   { date: 'Fri, 26 May 2017 10:33:39 GMT',
+187 silly get     'content-type': 'application/json',
+187 silly get     'content-length': '47432',
+187 silly get     connection: 'keep-alive',
+187 silly get     'x-frame-options': 'SAMEORIGIN',
+187 silly get     'x-content-type-options': 'nosniff' } ]
+188 verbose get saving gulp-concat to C:\Users\YCY\AppData\Roaming\npm-cache\maven.baokeyunguanjia.com\repository\npm-all\gulp-concat\.cache.json
+189 verbose correctMkdir C:\Users\YCY\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+190 http 200 http://maven.baokeyunguanjia.com/repository/npm-all/gulp-rename
+191 verbose headers { date: 'Fri, 26 May 2017 10:33:39 GMT',
+191 verbose headers   'content-type': 'application/json',
+191 verbose headers   'content-length': '17801',
+191 verbose headers   connection: 'keep-alive',
+191 verbose headers   'x-frame-options': 'SAMEORIGIN',
+191 verbose headers   'x-content-type-options': 'nosniff' }
+192 silly get cb [ 200,
+192 silly get   { date: 'Fri, 26 May 2017 10:33:39 GMT',
+192 silly get     'content-type': 'application/json',
+192 silly get     'content-length': '17801',
+192 silly get     connection: 'keep-alive',
+192 silly get     'x-frame-options': 'SAMEORIGIN',
+192 silly get     'x-content-type-options': 'nosniff' } ]
+193 verbose get saving gulp-rename to C:\Users\YCY\AppData\Roaming\npm-cache\maven.baokeyunguanjia.com\repository\npm-all\gulp-rename\.cache.json
+194 verbose correctMkdir C:\Users\YCY\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+195 http 200 http://maven.baokeyunguanjia.com/repository/npm-all/gulp-rename
+196 verbose headers { date: 'Fri, 26 May 2017 10:33:39 GMT',
+196 verbose headers   'content-type': 'application/json',
+196 verbose headers   'content-length': '17801',
+196 verbose headers   connection: 'keep-alive',
+196 verbose headers   'x-frame-options': 'SAMEORIGIN',
+196 verbose headers   'x-content-type-options': 'nosniff' }
+197 silly get cb [ 200,
+197 silly get   { date: 'Fri, 26 May 2017 10:33:39 GMT',
+197 silly get     'content-type': 'application/json',
+197 silly get     'content-length': '17801',
+197 silly get     connection: 'keep-alive',
+197 silly get     'x-frame-options': 'SAMEORIGIN',
+197 silly get     'x-content-type-options': 'nosniff' } ]
+198 verbose get saving gulp-rename to C:\Users\YCY\AppData\Roaming\npm-cache\maven.baokeyunguanjia.com\repository\npm-all\gulp-rename\.cache.json
+199 verbose correctMkdir C:\Users\YCY\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+200 http 200 http://maven.baokeyunguanjia.com/repository/npm-all/webpack-stream
+201 verbose headers { date: 'Fri, 26 May 2017 10:33:39 GMT',
+201 verbose headers   'content-type': 'application/json',
+201 verbose headers   'content-length': '21918',
+201 verbose headers   connection: 'keep-alive',
+201 verbose headers   'x-frame-options': 'SAMEORIGIN',
+201 verbose headers   'x-content-type-options': 'nosniff' }
+202 silly get cb [ 200,
+202 silly get   { date: 'Fri, 26 May 2017 10:33:39 GMT',
+202 silly get     'content-type': 'application/json',
+202 silly get     'content-length': '21918',
+202 silly get     connection: 'keep-alive',
+202 silly get     'x-frame-options': 'SAMEORIGIN',
+202 silly get     'x-content-type-options': 'nosniff' } ]
+203 verbose get saving webpack-stream to C:\Users\YCY\AppData\Roaming\npm-cache\maven.baokeyunguanjia.com\repository\npm-all\webpack-stream\.cache.json
+204 verbose correctMkdir C:\Users\YCY\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+205 http 200 http://maven.baokeyunguanjia.com/repository/npm-all/yargs
+206 verbose headers { date: 'Fri, 26 May 2017 10:33:39 GMT',
+206 verbose headers   'content-type': 'application/json',
+206 verbose headers   'content-length': '348917',
+206 verbose headers   connection: 'keep-alive',
+206 verbose headers   'x-frame-options': 'SAMEORIGIN',
+206 verbose headers   'x-content-type-options': 'nosniff' }
+207 silly get cb [ 200,
+207 silly get   { date: 'Fri, 26 May 2017 10:33:39 GMT',
+207 silly get     'content-type': 'application/json',
+207 silly get     'content-length': '348917',
+207 silly get     connection: 'keep-alive',
+207 silly get     'x-frame-options': 'SAMEORIGIN',
+207 silly get     'x-content-type-options': 'nosniff' } ]
+208 verbose get saving yargs to C:\Users\YCY\AppData\Roaming\npm-cache\maven.baokeyunguanjia.com\repository\npm-all\yargs\.cache.json
+209 verbose correctMkdir C:\Users\YCY\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+210 http 200 http://maven.baokeyunguanjia.com/repository/npm-all/webpack
+211 verbose headers { date: 'Fri, 26 May 2017 10:33:39 GMT',
+211 verbose headers   'content-type': 'application/json',
+211 verbose headers   'content-length': '1101128',
+211 verbose headers   connection: 'keep-alive',
+211 verbose headers   'x-frame-options': 'SAMEORIGIN',
+211 verbose headers   'x-content-type-options': 'nosniff' }
+212 silly get cb [ 200,
+212 silly get   { date: 'Fri, 26 May 2017 10:33:39 GMT',
+212 silly get     'content-type': 'application/json',
+212 silly get     'content-length': '1101128',
+212 silly get     connection: 'keep-alive',
+212 silly get     'x-frame-options': 'SAMEORIGIN',
+212 silly get     'x-content-type-options': 'nosniff' } ]
+213 verbose get saving webpack to C:\Users\YCY\AppData\Roaming\npm-cache\maven.baokeyunguanjia.com\repository\npm-all\webpack\.cache.json
+214 verbose correctMkdir C:\Users\YCY\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+215 silly rollbackFailedOptional Starting
+216 silly rollbackFailedOptional Finishing
+217 silly runTopLevelLifecycles Finishing
+218 silly install printInstalled
+219 verbose stack Error: Not found : repository
+219 verbose stack     at makeError (C:\Program Files\nodejs\node_modules\npm\node_modules\npm-registry-client\lib\request.js:302:12)
+219 verbose stack     at CachingRegistryClient.<anonymous> (C:\Program Files\nodejs\node_modules\npm\node_modules\npm-registry-client\lib\request.js:290:14)
+219 verbose stack     at Request._callback (C:\Program Files\nodejs\node_modules\npm\node_modules\npm-registry-client\lib\request.js:210:14)
+219 verbose stack     at Request.self.callback (C:\Program Files\nodejs\node_modules\npm\node_modules\request\request.js:186:22)
+219 verbose stack     at emitTwo (events.js:106:13)
+219 verbose stack     at Request.emit (events.js:191:7)
+219 verbose stack     at Request.<anonymous> (C:\Program Files\nodejs\node_modules\npm\node_modules\request\request.js:1081:10)
+219 verbose stack     at emitOne (events.js:96:13)
+219 verbose stack     at Request.emit (events.js:188:7)
+219 verbose stack     at IncomingMessage.<anonymous> (C:\Program Files\nodejs\node_modules\npm\node_modules\request\request.js:1001:12)
+220 verbose statusCode 404
+221 verbose pkgid repository
+222 verbose cwd D:\demo\es6-mk
+223 error Windows_NT 10.0.14393
+224 error argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install" "gulp" "gulp-if" "gulp-concat" "webpack" "webpack-stream" "vinl-named" "gulp-livereload" "gulp-plumber" "gulp-rename" "gulp-rename" "gulp-uglify" "gulp-util" "yargs" "--save-dev"
+225 error node v7.4.0
+226 error npm  v4.0.5
+227 error code E404
+228 error 404 Not found : repository
+229 error 404
+230 error 404 'repository' is not in the npm registry.
+231 error 404 You should bug the author to publish it (or use the name yourself!)
+232 error 404 Note that you can also install from a
+233 error 404 tarball, folder, http url, or git url.
+234 verbose exit [ 1, true ]
